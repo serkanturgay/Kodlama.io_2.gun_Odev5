@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\bin\Debug\netcoreapp3.1\EnBuyukSayi.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\EnBuyukSayi\obj\Debug\netcoreapp3.1\EnBuyukSayi.genruntimeconfig.cache

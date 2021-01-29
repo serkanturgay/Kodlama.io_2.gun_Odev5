@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\bin\Debug\netcoreapp3.1\HangiGun.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\bin\Debug\netcoreapp3.1\HangiGun.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\bin\Debug\netcoreapp3.1\HangiGun.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\bin\Debug\netcoreapp3.1\HangiGun.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\bin\Debug\netcoreapp3.1\HangiGun.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\bin\Debug\netcoreapp3.1\HangiGun.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\obj\Debug\netcoreapp3.1\HangiGun.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\obj\Debug\netcoreapp3.1\HangiGun.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\obj\Debug\netcoreapp3.1\HangiGun.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\obj\Debug\netcoreapp3.1\HangiGun.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\obj\Debug\netcoreapp3.1\HangiGun.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\obj\Debug\netcoreapp3.1\HangiGun.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\HangiGun\obj\Debug\netcoreapp3.1\HangiGun.genruntimeconfig.cache
