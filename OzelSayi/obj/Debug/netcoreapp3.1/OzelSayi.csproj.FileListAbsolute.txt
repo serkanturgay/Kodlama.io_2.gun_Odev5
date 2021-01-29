@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\bin\Debug\netcoreapp3.1\OzelSayi.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\bin\Debug\netcoreapp3.1\OzelSayi.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\bin\Debug\netcoreapp3.1\OzelSayi.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\bin\Debug\netcoreapp3.1\OzelSayi.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\bin\Debug\netcoreapp3.1\OzelSayi.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\bin\Debug\netcoreapp3.1\OzelSayi.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\obj\Debug\netcoreapp3.1\OzelSayi.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\obj\Debug\netcoreapp3.1\OzelSayi.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\obj\Debug\netcoreapp3.1\OzelSayi.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\obj\Debug\netcoreapp3.1\OzelSayi.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\obj\Debug\netcoreapp3.1\OzelSayi.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\obj\Debug\netcoreapp3.1\OzelSayi.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OzelSayi\obj\Debug\netcoreapp3.1\OzelSayi.genruntimeconfig.cache
