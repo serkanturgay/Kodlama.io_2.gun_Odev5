@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\bin\Debug\netcoreapp3.1\VizeFinal.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\bin\Debug\netcoreapp3.1\VizeFinal.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\bin\Debug\netcoreapp3.1\VizeFinal.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\bin\Debug\netcoreapp3.1\VizeFinal.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\bin\Debug\netcoreapp3.1\VizeFinal.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\bin\Debug\netcoreapp3.1\VizeFinal.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\obj\Debug\netcoreapp3.1\VizeFinal.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\obj\Debug\netcoreapp3.1\VizeFinal.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\obj\Debug\netcoreapp3.1\VizeFinal.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\obj\Debug\netcoreapp3.1\VizeFinal.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\obj\Debug\netcoreapp3.1\VizeFinal.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\obj\Debug\netcoreapp3.1\VizeFinal.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\VizeFinal\obj\Debug\netcoreapp3.1\VizeFinal.genruntimeconfig.cache
