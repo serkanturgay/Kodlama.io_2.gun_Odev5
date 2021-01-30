@@ -1,0 +1,12 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\bin\Debug\netcoreapp3.1\OtoparkOtomat.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\bin\Debug\netcoreapp3.1\OtoparkOtomat.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\bin\Debug\netcoreapp3.1\OtoparkOtomat.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\bin\Debug\netcoreapp3.1\OtoparkOtomat.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\bin\Debug\netcoreapp3.1\OtoparkOtomat.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\bin\Debug\netcoreapp3.1\OtoparkOtomat.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\obj\Debug\netcoreapp3.1\OtoparkOtomat.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\obj\Debug\netcoreapp3.1\OtoparkOtomat.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\obj\Debug\netcoreapp3.1\OtoparkOtomat.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\obj\Debug\netcoreapp3.1\OtoparkOtomat.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\obj\Debug\netcoreapp3.1\OtoparkOtomat.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\OtoparkOtomat\obj\Debug\netcoreapp3.1\OtoparkOtomat.genruntimeconfig.cache
