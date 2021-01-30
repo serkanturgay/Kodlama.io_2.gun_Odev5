@@ -1,0 +1,12 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\bin\Debug\netcoreapp3.1\AlısKar.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\bin\Debug\netcoreapp3.1\AlısKar.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\bin\Debug\netcoreapp3.1\AlısKar.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\bin\Debug\netcoreapp3.1\AlısKar.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\bin\Debug\netcoreapp3.1\AlısKar.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\bin\Debug\netcoreapp3.1\AlısKar.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\obj\Debug\netcoreapp3.1\AlısKar.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\obj\Debug\netcoreapp3.1\AlısKar.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\obj\Debug\netcoreapp3.1\AlısKar.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\obj\Debug\netcoreapp3.1\AlısKar.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\obj\Debug\netcoreapp3.1\AlısKar.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\AlısKar\obj\Debug\netcoreapp3.1\AlısKar.genruntimeconfig.cache
