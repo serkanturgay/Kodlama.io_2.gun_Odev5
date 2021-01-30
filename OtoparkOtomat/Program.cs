@@ -11,7 +11,6 @@ namespace OtoparkOtomat
             if (otoparkSure<=0)
             {
                 Console.WriteLine("LUTFEN GECERLI SAYI GIRINIZ.");
-                int otoparkSure = Convert.ToInt32(Console.ReadLine());
             }
             else if (otoparkSure<=3)
             {

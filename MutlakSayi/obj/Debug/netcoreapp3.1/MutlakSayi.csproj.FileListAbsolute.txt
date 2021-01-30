@@ -1,0 +1,12 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\bin\Debug\netcoreapp3.1\MutlakSayi.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\bin\Debug\netcoreapp3.1\MutlakSayi.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\bin\Debug\netcoreapp3.1\MutlakSayi.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\bin\Debug\netcoreapp3.1\MutlakSayi.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\bin\Debug\netcoreapp3.1\MutlakSayi.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\bin\Debug\netcoreapp3.1\MutlakSayi.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\obj\Debug\netcoreapp3.1\MutlakSayi.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\obj\Debug\netcoreapp3.1\MutlakSayi.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\obj\Debug\netcoreapp3.1\MutlakSayi.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\obj\Debug\netcoreapp3.1\MutlakSayi.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\obj\Debug\netcoreapp3.1\MutlakSayi.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\MutlakSayi\obj\Debug\netcoreapp3.1\MutlakSayi.genruntimeconfig.cache
