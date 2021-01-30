@@ -16,6 +16,8 @@ namespace VizeFinal
             int Ortalama = (vize * 4 / 10) + (final * 6 / 10);
 
             Console.WriteLine(Ortalama);
+
+            
         }
     }
 }

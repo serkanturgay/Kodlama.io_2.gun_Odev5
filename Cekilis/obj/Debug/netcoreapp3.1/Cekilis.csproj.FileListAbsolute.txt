@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\bin\Debug\netcoreapp3.1\Cekilis.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\bin\Debug\netcoreapp3.1\Cekilis.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\bin\Debug\netcoreapp3.1\Cekilis.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\bin\Debug\netcoreapp3.1\Cekilis.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\bin\Debug\netcoreapp3.1\Cekilis.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\bin\Debug\netcoreapp3.1\Cekilis.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\obj\Debug\netcoreapp3.1\Cekilis.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\obj\Debug\netcoreapp3.1\Cekilis.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\obj\Debug\netcoreapp3.1\Cekilis.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\obj\Debug\netcoreapp3.1\Cekilis.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\obj\Debug\netcoreapp3.1\Cekilis.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\obj\Debug\netcoreapp3.1\Cekilis.genruntimeconfig.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\Cekilis\obj\Debug\netcoreapp3.1\Cekilis.csprojAssemblyReference.cache
