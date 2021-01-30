@@ -1,0 +1,13 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\bin\Debug\netcoreapp3.1\UsAlma.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\bin\Debug\netcoreapp3.1\UsAlma.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\bin\Debug\netcoreapp3.1\UsAlma.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\bin\Debug\netcoreapp3.1\UsAlma.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\bin\Debug\netcoreapp3.1\UsAlma.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\bin\Debug\netcoreapp3.1\UsAlma.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\obj\Debug\netcoreapp3.1\UsAlma.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\obj\Debug\netcoreapp3.1\UsAlma.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\obj\Debug\netcoreapp3.1\UsAlma.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\obj\Debug\netcoreapp3.1\UsAlma.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\obj\Debug\netcoreapp3.1\UsAlma.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\obj\Debug\netcoreapp3.1\UsAlma.genruntimeconfig.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\UsAlma\obj\Debug\netcoreapp3.1\UsAlma.csprojAssemblyReference.cache
