@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocukOyunu", "CocukOyunu\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{284072CB-CA84-4E3D-8443-83B5665272BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TahminOyunu", "TahminOyunu\TahminOyunu.csproj", "{FD62D65A-9797-486A-B0F6-163453509FAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{284072CB-CA84-4E3D-8443-83B5665272BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{284072CB-CA84-4E3D-8443-83B5665272BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{284072CB-CA84-4E3D-8443-83B5665272BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD62D65A-9797-486A-B0F6-163453509FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD62D65A-9797-486A-B0F6-163453509FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD62D65A-9797-486A-B0F6-163453509FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD62D65A-9797-486A-B0F6-163453509FAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
