@@ -1,0 +1,12 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\bin\Debug\netcoreapp3.1\CocukOyunu.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\bin\Debug\netcoreapp3.1\CocukOyunu.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\bin\Debug\netcoreapp3.1\CocukOyunu.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\bin\Debug\netcoreapp3.1\CocukOyunu.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\bin\Debug\netcoreapp3.1\CocukOyunu.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\bin\Debug\netcoreapp3.1\CocukOyunu.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\obj\Debug\netcoreapp3.1\CocukOyunu.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\obj\Debug\netcoreapp3.1\CocukOyunu.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\obj\Debug\netcoreapp3.1\CocukOyunu.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\obj\Debug\netcoreapp3.1\CocukOyunu.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\obj\Debug\netcoreapp3.1\CocukOyunu.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\CocukOyunu\obj\Debug\netcoreapp3.1\CocukOyunu.genruntimeconfig.cache

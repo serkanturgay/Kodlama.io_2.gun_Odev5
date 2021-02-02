@@ -1,0 +1,12 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\bin\Debug\netcoreapp3.1\DenemeTahtasi.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\bin\Debug\netcoreapp3.1\DenemeTahtasi.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\bin\Debug\netcoreapp3.1\DenemeTahtasi.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\bin\Debug\netcoreapp3.1\DenemeTahtasi.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\bin\Debug\netcoreapp3.1\DenemeTahtasi.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\bin\Debug\netcoreapp3.1\DenemeTahtasi.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netcoreapp3.1\DenemeTahtasi.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netcoreapp3.1\DenemeTahtasi.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netcoreapp3.1\DenemeTahtasi.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netcoreapp3.1\DenemeTahtasi.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netcoreapp3.1\DenemeTahtasi.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netcoreapp3.1\DenemeTahtasi.genruntimeconfig.cache
