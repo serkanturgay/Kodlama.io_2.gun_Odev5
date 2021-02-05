@@ -10,3 +10,4 @@ C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netco
 C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netcoreapp3.1\DenemeTahtasi.dll
 C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netcoreapp3.1\DenemeTahtasi.pdb
 C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netcoreapp3.1\DenemeTahtasi.genruntimeconfig.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DenemeTahtasi\obj\Debug\netcoreapp3.1\DenemeTahtasi.csprojAssemblyReference.cache

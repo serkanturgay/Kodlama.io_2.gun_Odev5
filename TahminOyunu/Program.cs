@@ -16,12 +16,12 @@ namespace TahminOyunu
 
                 if (tahmin == rastgele)
                 {
-                    Console.WriteLine("Tebrikler ozlem Dogru Tahmin");
+                    Console.WriteLine("Tebrikler");
                     break;
                 }
                 else
                 {
-                    Console.WriteLine("mal ozlem, dogru sayi : " + rastgele);
+                    Console.WriteLine("dogru sayi : " + rastgele);
 
 
                 }

@@ -1,0 +1,12 @@
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\bin\Debug\netcoreapp3.1\DogumTarihi.exe
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\bin\Debug\netcoreapp3.1\DogumTarihi.deps.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\bin\Debug\netcoreapp3.1\DogumTarihi.runtimeconfig.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\bin\Debug\netcoreapp3.1\DogumTarihi.runtimeconfig.dev.json
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\bin\Debug\netcoreapp3.1\DogumTarihi.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\bin\Debug\netcoreapp3.1\DogumTarihi.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\obj\Debug\netcoreapp3.1\DogumTarihi.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\obj\Debug\netcoreapp3.1\DogumTarihi.AssemblyInfo.cs
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\obj\Debug\netcoreapp3.1\DogumTarihi.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\obj\Debug\netcoreapp3.1\DogumTarihi.dll
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\obj\Debug\netcoreapp3.1\DogumTarihi.pdb
+C:\Users\hakan\source\repos\Kodlama.io_2.gun_Odev5\DogumTarihi\obj\Debug\netcoreapp3.1\DogumTarihi.genruntimeconfig.cache
